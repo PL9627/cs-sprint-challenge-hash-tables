@@ -23,11 +23,34 @@ Commit your code regularly and meaningfully. This practice helps both you (in ca
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your answers beforehand.
 
 1. Hashing functions
+
+    - A function where the input is any data type and has a number as an output.
+
 2. Collision resolution
+
+    - A technique that prevents different keys resulting in the same value.
+
 3. Performance of basic hash table operations
+
+    - O(1)
+
 4. Load factor
+
+    - measure of allowed hash table capacity before it must increase.
+
 5. Automatic resizing
+
+    - The occurence of a hash table increasing its capacity automatically due to reaching its load factor.
+
 6. Various use cases for hash tables
+
+    - Lookups:
+        - library system
+        - digital phone book
+
+    - Duplication Resolution
+        - voting system
+        - storing users
 
 We expect you to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
